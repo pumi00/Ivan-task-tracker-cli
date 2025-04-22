@@ -1,0 +1,6 @@
+1. First to do is install all dependences
+2. Adding imports: sys-> Proporciona acceso a variables y funciones relacionadas con el sistema.
+                   json-> Proporcina funciones para trabajar con datos de formato json.
+                   os-> Proporciona una manera portable de usar funcionalidades dependientes del sistema operativo.
+                   form enum import Enum-> Es una clase base para crear enumeraciones.
+                   Se usa para definir los posibles estados de una tarea.
